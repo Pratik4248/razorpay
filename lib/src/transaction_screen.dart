@@ -116,7 +116,7 @@ Future<void> fetchTransactions() async {
                     borderRadius: BorderRadius.circular(16),
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.red.withOpacity(0.3),
+                        color: Colors.red.withOpacity(0.4),
                         blurRadius: 10,
                         offset: const Offset(0, 4),
                       ),
